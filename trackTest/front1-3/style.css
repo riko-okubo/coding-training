@@ -1,0 +1,13 @@
+th {
+  background-color: royalblue;
+  color: white;
+  padding: 6px;
+  width: 24px;
+  border-radius: 50%;
+}
+
+td {
+  text-align: center;
+  color: black;
+  padding: 6px;
+}
