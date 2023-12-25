@@ -1,0 +1,11 @@
+.userList {
+  padding: 4px;
+  list-style: none;
+}
+
+.name {
+  padding: 2px;
+}
+.email {
+  padding: 2px;
+}
